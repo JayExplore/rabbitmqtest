@@ -1,0 +1,7 @@
+apiVersion: v2
+name: rabbit-mq
+description: A Helm chart for Applications in Databridge EKS Cluster
+
+type: application
+version: 0.1.0
+appVersion: 1.0.0
